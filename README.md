@@ -5,7 +5,7 @@ A modern and responsive resume landing page built using HTML, CSS and JavaScript
 
 ## 🚀 Live Demo
 
-
+https://vikramnayal56.github.io/Landing-page-resume-flow/
 
 ## 🛠️ Tech Stack
 
@@ -17,7 +17,7 @@ A modern and responsive resume landing page built using HTML, CSS and JavaScript
 
 Landing-page-resume-flow/
 │
-├── ResumeFow.html
+├── index.html
 ├── resumeflow.css
 ├── script.js
 └── README.md
